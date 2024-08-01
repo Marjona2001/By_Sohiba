@@ -1,0 +1,89 @@
+{
+    "navbar": {
+        "weddings" : "To'y liboslari",
+        "abayas-boutique" : "Abaya Boutique",
+        "beauty-salon": "Beauty Salon",
+        "accessories": "Aksessuarlar"
+    },
+    "home_page": {
+        "header": {
+            "home_header_text": "dunyo bo'ylab ko'plab muslima kelinlarni xursand qila olgan brend",
+            "header_btn": "Konsultasiya olish",
+            "header_video_btn": "Videoni ochish",
+            "header_address": "Toshkent, Mirzo G`olib ko'chasi 1",
+            "header_work_time": "Har kuni 10:00 - 19:00"
+        },
+        "brands": {
+            "brands_text": "quyidagi brendlarni taqdim etadi",
+            "card_weddings": "to`y liboslari",
+            "card_beauty_salon": "go`zallik saloni",
+            "card_abayas_boutique": "abayalar do`koni",
+            "card_accessories": "aksessuarlar"
+        },
+        "instagram" : {
+            "insta_text": "Yangi ko`ylaklar va  aksiyalar  haqida birinchi xabar toopish uchun Instagram sahifamizga obuna bo`ling",
+            "insta_btn": "Instagramga o'tish"
+        },
+        "comment": {
+            "comment_head_text": "mijozlarimizga so`z beramiz",
+            "comment_body_text": "biz haqimizda fikr bildiring",
+            "text_review": "Izoh yozish...",
+            "comment_your_name": "Ismingiz",
+            "comment_btn": "Yuborish"
+        },
+        "footer": {
+            "footer_head_text": "bizning manzil",
+            "footer_btn_1": "Chorsu saloni",
+            "footer_btn_2": "Beruniy saloni",
+            "footer_location_text": "Manzil",
+            "footer_work_time_text": "Ish vaqti",
+            "footer_phone_number_text": "Telefon raqam",
+            "address_chorsu_1": "Toshkent, Laylitogon kochasi 97",
+            "address_chorsu_2": "Mo`ljal restoran Mumtoz",
+            "address_beruniy_1": "Toshkent, Olmazor tumani, Farobiy 1",
+            "address_beruniy_2": "Mo'ljal Beruniy metrosi",
+            "footer_end_text": "“bySohiba” 2022. Barcha huquqlar himoyalangan"
+        }
+    },
+    "weddings_page": {
+        "header": " <spam class='color-text'> bysohiba </spam> toy liboslari - muslima qizlar  tanlovi",
+        "under_header": {
+            "head_text": "<h2 class='d-inline' ><img src={{logo}} /> brendidan to'y liboslari</h2>",
+            "body_text":"<p class='text-uh' >Islom olamidagi so'nggi uslublarga asoslangan, kelinning tanasini maksimal berkitib turuvchi noyob to'y liboslari.</p><br/><p class='text-uh'>Shakllarning kamtarligi va chiroyli dizayn echimlari sizga eng go'zal musulima kelin bo'lishingizga yordam beradi.</p>"
+        },
+        "catalog": {
+            "catalog_head_text": "katalog",
+            "catalog_btn": "Yana ko'rish"
+        },
+        "videogallery": {
+            "head_text": "videogalereya"
+        }
+    },
+    "abayas_boutique_page": {
+        "header": " <spam class='color-text'> BYsohiba abayas boutique </spam> DUBAYDA ISHLANGAN ZAMONAVIY ABAYALAR",
+        "under_header": {
+            "head_text": "<h2  class='color-text' >Bysohiba abayas boutique</h2>",
+            "body_text":" <p class='text-uh'><img src={{icon}} class='icon-uh' /> Eksklyuziv abayalar to'plami </p><p class='text-uh'><img src={{icon}} class='icon-uh' /> Ro'mollar </p><p class='text-uh'><img src={{icon}} class='icon-uh' /> Oyoq kiyimlar </p><p class='text-uh'><img src={{icon}} class='icon-uh' /> bySohiba brendidan zamonaviy sumkalar </p>"
+        },
+        "clothes": "abaya ko`ylaklari",
+        "photogallery": "fotogalereya",
+        "shoes": "Oyoq kiyimlar",
+        "accessories": "aksessuarlar"
+    },
+    "beauty_salon_page": {
+        "header": " <spam class='color-text'> Bysohiba beauty salon: </spam> barchasi sizning mukammal go'zalligingiz uchun",
+        "under_header": {
+            "head_text": "<h2>nima uchun <spam class='color-text'> Bysohiba beauty salon</spam></h2>",
+            "body_text": "<p class='text-uh' >Eng muhim makiyajlardan biri bu to'y kunidagi makiyajidir. Biz ushbu kunni siz uchun qanchalik muhimligini bilamiz va to'y obrazini yaratishga barcha mas'uliyat va tirishqoqlik bilan yondashamiz.</p><p class='text-uh' >Sizning hohishingizga binoan, yakuniy tasvirni aniqlashga yordam beradigan sinov makiyaji amalga oshirilishi mumkin.</p>"
+        },
+        "videogallery": "vizajistlarimiz ishi"
+    },
+    "accessories_page": {
+        "under_header": {
+            "head_text": "<h2>zargarlik buyumlari va aksessuarlari <spam class='color-text'>bysohiba</spam> tomonidan qo'lda ishlangan</h2>",
+            "body_text": "<p class='text-uh' >Zargarlik buyumlarining barcha modellari bitta nusxada ishlab chiqariladi, shuning uchun ularning egalari chinakam noyob va betakror zargarlik buyumlarini taqishlari bilan faxrlanishlari mumkin.</p>"
+        },
+        "photogallery": "ishimizdan misollar",
+        "videogallery": "Videoblog"
+    }
+}

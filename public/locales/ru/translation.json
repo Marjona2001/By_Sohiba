@@ -1,0 +1,89 @@
+{
+    "navbar": {
+        "weddings" : "Свадебные платья",
+        "abayas-boutique" : "Абая Бутик",
+        "beauty-salon": "Салон Красоты",
+        "accessories": "Аксессуары"
+    },
+    "home_page": {
+        "header": {
+            "home_header_text": "бренд, который восхитил многих мусульманских невест по всему миру",
+            "header_btn": "Получить консультацию",
+            "header_video_btn": "Посмотреть видео",
+            "header_address": "Ташкент, улица Мирза Голиб 1",
+            "header_work_time": "Без выходных 10:00 - 19:00"
+        },
+        "brands": {
+            "brands_text": "bysohiba предлагает вам следующие Бренды",
+            "card_weddings": "свадебные платья",
+            "card_beauty_salon": "салон красоты",
+            "card_abayas_boutique": "Абая Бутик",
+            "card_accessories": "Аксессуары"
+        },
+        "instagram" : {
+            "insta_text": "Подпишитесь на наш инстаграм, чтобы быть в курсе о новых коллекций и скидок",
+            "insta_btn": "Перейти в Instagram"
+        },
+        "comment": {
+            "comment_head_text": "Дадим слова нашим клиентам",
+            "comment_body_text": "Опишите свое мнение о нас",
+            "text_review": "пишите свой отзыв...",
+            "comment_your_name": "Ваше имя",
+            "comment_btn": "Отправить отзыв"
+        },
+        "footer": {
+            "footer_head_text": "наш адрес",
+            "footer_btn_1": "Салон Чорсу",
+            "footer_btn_2": "Салон Беруний",
+            "footer_location_text": "Адрес",
+            "footer_work_time_text": "Время работы",
+            "footer_phone_number_text": "Номер телефона",
+            "address_chorsu_1": "Ташкент, улица Лайлитог 97",
+            "address_chorsu_2": "Ориентр реторан Мумтоз",
+            "address_beruniy_1": "Ташкент, Алмазарский район, Фаробий 1",
+            "address_beruniy_2": "Ориентр метро Беруний",
+            "footer_end_text": "“bySohiba” 2022. Все права защищены."
+        }
+    },
+    "weddings_page": {
+        "header": "свадебные платья  <spam class='color-text'> BY sohiba </spam> выбор мусульманских невест",
+        "under_header": {
+            "head_text": "<h2 class='d-inline' >Свадебные платья от бренда <img src={{logo}} /> </h2>",
+            "body_text":"<p class='text-uh' >Уникальные свадебные платья, основанные на последних тенденциях исламского мира, которые максимально скрывают тело невесты.</p><br/><p class='text-uh'>Скромность форм и красивые дизайнерские решения помогут вам стать самой красивой невестой вечера.</p>"
+        },
+        "catalog": {
+            "catalog_head_text": "КАталог",
+            "catalog_btn": "Показать еще"
+        },
+        "videogallery": {
+            "head_text": "Видеогалерея"
+        }
+    },
+    "abayas_boutique_page": {
+        "header": " <spam class='color-text'>BYsohiba abayas boutique </spam> Модные дубайский абайи от нашего бренда",
+        "under_header": {
+            "head_text": "<h2  class='color-text' >Bysohiba abayas boutique</h2>",
+            "body_text":" <p class='text-uh'><img src={{icon}} class='icon-uh' /> Эксклюзивные коллекции Абая </p><p class='text-uh'><img src={{icon}} class='icon-uh' /> Платки </p><p class='text-uh'><img src={{icon}} class='icon-uh' /> Обувь </p><p class='text-uh'><img src={{icon}} class='icon-uh' /> Фирменные сумки от бренда bySohiba в современном стиле </p>"
+        },
+        "clothes": "абайя платья",
+        "photogallery": "ФотоГалерея",
+        "shoes": "обувь",
+        "accessories": "Аксессуары"
+    },
+    "beauty_salon_page": {
+        "header": " <spam class='color-text'> Bysohiba beauty salon:</spam> все для вашей идеальной красоты",
+        "under_header": {
+            "head_text": "<h2>почему <spam class='color-text'> Bysohiba beauty salon</spam></h2>",
+            "body_text": "<p class='text-uh' >Особый вид макияжа - это свадебный макияж. Мы знаем, как важно для вас это событие и подходим к созданию свадебного образа со всей ответственностью и старанием.</p><p class='text-uh' >По желанию клиентки может проводиться пробный макияж, который поможет определиться с окончательным образом.</p>"
+        },
+        "videogallery": "работа наших визажистов"
+    },
+    "accessories_page": {
+        "under_header": {
+            "head_text": "<h2>Дизайнерские украшения и аксессуары            ручной работы в <spam class='color-text'>bysohiba</spam></h2>",
+            "body_text": "<p class='text-uh' >Все модели украшений производятся в единственном экземпляре, поэтому их обладательницы могут гордиться, что носят действительно редкое и неповторимое ювелирное изделие.</p>"
+        },
+        "photogallery": "примеры наших работ",
+        "videogallery": "видеоблог"
+    }
+}

@@ -1,24 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import React, {Suspense} from 'react';
+import { Route, Routes } from "react-router-dom";
+// import './style/main.css'
+import HomePage from "./pages/HomePage";
+import Weddings from "./pages/BySohibaWeddings";
+import BeautySalon from "./pages/BySohibaBeautySalon";
+import Abayas from "./pages/BySohibaAbayas";
+import Accessories from "./pages/BySohibaAccessories";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Suspense fallback={'Loading...'} >
+      <Routes>
+        <Route path='/' element={<HomePage/>} />
+        <Route path='/Weddings' element={<Weddings/>} />
+        <Route path='/BeautySalon' element={<BeautySalon/>} />
+        <Route path='/Abayas' element={<Abayas/>} />
+        <Route path='/Accessories' element={<Accessories/>} />
+      </Routes>
+    </Suspense>
   );
 }
 

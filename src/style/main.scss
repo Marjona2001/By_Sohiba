@@ -1,0 +1,87 @@
+@import '../components/_componets.scss';
+// @import '../pages/pages';
+
+// Fonts
+
+
+// Comfortaa
+
+@font-face {
+    font-family: 'Comfortaa';
+    src: url(../assets/fonts/ComfortaaRegular.ttf);
+}
+
+//Shango Bold
+@font-face {
+    font-family: 'shango-bold';
+    src: url(../assets/fonts/ShangoBold.otf)format('opentype');
+    font-display: swap;
+}
+
+//Shango Medium
+@font-face {
+    font-family: 'shango-medium';
+    src: url(../assets/fonts/ShangoMedium.otf)format('opentype');
+    font-display: swap;
+}
+
+//STIX To Math
+@font-face {
+    font-family: 'STIX Two Math';
+    src: url(../assets/fonts/STIXTwoMathRegular.woff)format('opentype');
+    font-display: swap;
+}
+
+//Fonts-name
+
+$Comfortaa:'Comfortaa';
+$ShangoBold:'shango-bold';
+$ShangoMedium:'shango-medium';
+$STIXToMath:'STIX Two Text';
+
+
+//Colors
+
+$GoldColor:#FEF9F5;
+$LogoColor:#E5D5BE;
+$TextColor:#103A39;
+$GreyTextColor:#7F7F7F;
+$PimeryColor:#6C9392;
+$LightColor:#D4E2D5;
+$WhiteColor:#FFFFFF;
+// $WhiteColor:#050505;
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box !important;
+}
+
+
+
+.home{
+    background-image:url('../assets/images/backgrounds/Background\ effects\(Main\ page\).png');
+    background-size: cover;
+    background-position: center;
+}
+.weddings{
+    background-image:url('../assets/images/backgrounds/background\ effect\(Weddings\).png');
+    background-size: cover;
+    background-position: center;
+}
+.abayas{
+    background-image:url('../assets/images/backgrounds/BGeffect\ \(Abayas\).png');
+    background-size: cover;
+    background-position: center;
+}
+.accessories{
+    background-image:url('../assets/images/backgrounds/BGeffect\(Accessories\).png');
+    background-size: cover;
+    background-position: center;
+}
+.beauty_salon{
+    background-image:url('../assets/images/backgrounds/BGefferct\ \(Beauty\ salon\).png');
+    background-size: cover;
+    background-position: center;
+}
